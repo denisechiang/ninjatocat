@@ -1,0 +1,10 @@
+#bill1, #bill2, #bill3, #bill4, #bill5{
+	display: block;
+	margin: 20px 500px;
+}
+.container {
+	margin-top: 150px;
+}
+#title {
+	margin-left: 500px;
+}
